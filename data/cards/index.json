@@ -1,0 +1,20 @@
+{
+  "cards": [
+    {
+      "id": "0z9b1",
+      "name": "Galar-Zapdos V",
+      "condition": "NM",
+      "game": "pokemon",
+      "set": "schaurige-herrschaft",
+      "cardNumber": "174/198",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg",
+        "frontTopLeft": "frontTopLeft.jpg",
+        "frontTopRight": "frontTopRight.jpg",
+        "frontBottomLeft": "frontBottomLeft.jpg",
+        "frontBottomRight": "frontBottomRight.jpg"
+      }
+    }
+  ]
+}

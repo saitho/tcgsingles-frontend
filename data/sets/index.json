@@ -1,0 +1,2536 @@
+{
+  "sets": [
+    {
+      "id": "schaurige-herrschaft",
+      "game": "pokemon",
+      "name": "Schaurige Herrschaft",
+      "icon": "/sets/pokemon/schaurige-herrschaft/icon.png",
+      "logo": "/sets/pokemon/schaurige-herrschaft/logo.png",
+      "cards": [
+        {
+          "number": "001/198",
+          "name": "Hornliu",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "002/198",
+          "name": "Kokuna",
+          "type": "Pflanze",
+          "rarity": "UC"
+        },
+        {
+          "number": "003/198",
+          "name": "Bibor",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "004/198",
+          "name": "Ledyba",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "005/198",
+          "name": "Ledian",
+          "type": "Pflanze",
+          "rarity": "UC"
+        },
+        {
+          "number": "006/198",
+          "name": "Skaraborn",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "007/198",
+          "name": "Celebi V",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "008/198",
+          "name": "Celebi VMAX",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "009/198",
+          "name": "Shnebedeck",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "010/198",
+          "name": "Rexblisar",
+          "type": "Pflanze",
+          "rarity": "R"
+        },
+        {
+          "number": "011/198",
+          "name": "Sesokitz",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "012/198",
+          "name": "Kronjuwild",
+          "type": "Pflanze",
+          "rarity": "R"
+        },
+        {
+          "number": "013/198",
+          "name": "Frubberl",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "014/198",
+          "name": "Frubaila",
+          "type": "Pflanze",
+          "rarity": "UC"
+        },
+        {
+          "number": "015/198",
+          "name": "Fruyal",
+          "type": "Pflanze",
+          "rarity": "R"
+        },
+        {
+          "number": "016/198",
+          "name": "Chimpep",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "017/198",
+          "name": "Chimstix",
+          "type": "Pflanze",
+          "rarity": "UC"
+        },
+        {
+          "number": "018/198",
+          "name": "Gortrom",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "019/198",
+          "name": "Zarude",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "020/198",
+          "name": "Lohgock V",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "021/198",
+          "name": "Lohgock VMAX",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "022/198",
+          "name": "Formeo Sonnenform",
+          "type": "Feuer",
+          "rarity": "C"
+        },
+        {
+          "number": "023/198",
+          "name": "Ignivor",
+          "type": "Feuer",
+          "rarity": "C"
+        },
+        {
+          "number": "024/198",
+          "name": "Ramoth",
+          "type": "Feuer",
+          "rarity": "R"
+        },
+        {
+          "number": "025/198",
+          "name": "Volcanion V",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "026/198",
+          "name": "Hopplo",
+          "type": "Feuer",
+          "rarity": "C"
+        },
+        {
+          "number": "027/198",
+          "name": "Kickerlo",
+          "type": "Feuer",
+          "rarity": "UC"
+        },
+        {
+          "number": "028/198",
+          "name": "Liberlo",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "029/198",
+          "name": "Lapras",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "030/198",
+          "name": "Sniebel",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "031/198",
+          "name": "Snibunna",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "032/198",
+          "name": "Botogel",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "033/198",
+          "name": "Formeo Regenform",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "034/198",
+          "name": "Formeo Schneeform",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "035/198",
+          "name": "Schneppke",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "036/198",
+          "name": "Frosdedje",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "037/198",
+          "name": "Seemops",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "038/198",
+          "name": "Seejong",
+          "type": "Wasser",
+          "rarity": "UC"
+        },
+        {
+          "number": "039/198",
+          "name": "Walraisa",
+          "type": "Wasser",
+          "rarity": "R"
+        },
+        {
+          "number": "040/198",
+          "name": "Kapu-Kime",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "041/198",
+          "name": "Memmeon",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "042/198",
+          "name": "Phlegleon",
+          "type": "Wasser",
+          "rarity": "UC"
+        },
+        {
+          "number": "043/198",
+          "name": "Intelleon",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "044/198",
+          "name": "Fließender-Angriff-Wulaosu",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "045/198",
+          "name": "Schimmelreiter-Coronospa V",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "046/198",
+          "name": "Schimmelreiter-Coronospa VMAX",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "047/198",
+          "name": "Voltilamm",
+          "type": "Elektro",
+          "rarity": "C"
+        },
+        {
+          "number": "048/198",
+          "name": "Waaty",
+          "type": "Elektro",
+          "rarity": "UC"
+        },
+        {
+          "number": "049/198",
+          "name": "Ampharos",
+          "type": "Elektro",
+          "rarity": "R"
+        },
+        {
+          "number": "050/198",
+          "name": "Elezeba",
+          "type": "Elektro",
+          "rarity": "C"
+        },
+        {
+          "number": "051/198",
+          "name": "Zebritz",
+          "type": "Elektro",
+          "rarity": "R"
+        },
+        {
+          "number": "052/198",
+          "name": "Voltolos",
+          "type": "Elektro",
+          "rarity": "HR"
+        },
+        {
+          "number": "053/198",
+          "name": "Zeraora V",
+          "type": "Elektro",
+          "rarity": "HR"
+        },
+        {
+          "number": "054/198",
+          "name": "Galar-Flegmon",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "055/198",
+          "name": "Nebulak",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "056/198",
+          "name": "Alpollo",
+          "type": "Psycho",
+          "rarity": "UC"
+        },
+        {
+          "number": "057/198",
+          "name": "Gengar",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "058/198",
+          "name": "Galar-Arktos V",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "059/198",
+          "name": "Trasla",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "060/198",
+          "name": "Kirlia",
+          "type": "Psycho",
+          "rarity": "UC"
+        },
+        {
+          "number": "061/198",
+          "name": "Guardevoir",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "062/198",
+          "name": "Shuppet",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "063/198",
+          "name": "Banette",
+          "type": "Psycho",
+          "rarity": "R"
+        },
+        {
+          "number": "064/198",
+          "name": "Cresselia",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "065/198",
+          "name": "Golbit",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "066/198",
+          "name": "Golgantes",
+          "type": "Psycho",
+          "rarity": "R"
+        },
+        {
+          "number": "067/198",
+          "name": "Flauschling",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "068/198",
+          "name": "Sabbaione",
+          "type": "Psycho",
+          "rarity": "R"
+        },
+        {
+          "number": "069/198",
+          "name": "Iscalar",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "070/198",
+          "name": "Calamanero",
+          "type": "Psycho",
+          "rarity": "R"
+        },
+        {
+          "number": "071/198",
+          "name": "Brimova",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "072/198",
+          "name": "Brimano",
+          "type": "Psycho",
+          "rarity": "UC"
+        },
+        {
+          "number": "073/198",
+          "name": "Silembrim",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "074/198",
+          "name": "Rappenreiter-Coronospa V",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "075/198",
+          "name": "Rappenreiter-Coronospa VMAX",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "076/198",
+          "name": "Digda",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "077/198",
+          "name": "Digdri",
+          "type": "Kampf",
+          "rarity": "R"
+        },
+        {
+          "number": "078/198",
+          "name": "Galar-Porenta",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "079/198",
+          "name": "Galar-Lauchzelot",
+          "type": "Kampf",
+          "rarity": "R"
+        },
+        {
+          "number": "080/198",
+          "name": "Galar-Zapdos V",
+          "type": "Kampf",
+          "rarity": "HR"
+        },
+        {
+          "number": "081/198",
+          "name": "Galagladi",
+          "type": "Kampf",
+          "rarity": "R"
+        },
+        {
+          "number": "082/198",
+          "name": "Galar-Makabaja",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "083/198",
+          "name": "Galar-Oghnatoll",
+          "type": "Kampf",
+          "rarity": "HR"
+        },
+        {
+          "number": "084/198",
+          "name": "Krabbox",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "085/198",
+          "name": "Krawell",
+          "type": "Kampf",
+          "rarity": "UC"
+        },
+        {
+          "number": "086/198",
+          "name": "Wuffels",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "087/198",
+          "name": "Wolwerock",
+          "type": "Kampf",
+          "rarity": "HR"
+        },
+        {
+          "number": "088/198",
+          "name": "Quartermak",
+          "type": "Kampf",
+          "rarity": "R"
+        },
+        {
+          "number": "089/198",
+          "name": "Sanaconda V",
+          "type": "Kampf",
+          "rarity": "HR"
+        },
+        {
+          "number": "090/198",
+          "name": "Sanaconda VMAX",
+          "type": "Kampf",
+          "rarity": "HR"
+        },
+        {
+          "number": "091/198",
+          "name": "Klopptopus",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "092/198",
+          "name": "Kaocto",
+          "type": "Kampf",
+          "rarity": "HR"
+        },
+        {
+          "number": "093/198",
+          "name": "Dakuma",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "094/198",
+          "name": "Smogon",
+          "type": "Finsternis",
+          "rarity": "C"
+        },
+        {
+          "number": "095/198",
+          "name": "Smogmog",
+          "type": "Finsternis",
+          "rarity": "R"
+        },
+        {
+          "number": "096/198",
+          "name": "Galar-Smogmog",
+          "type": "Finsternis",
+          "rarity": "R"
+        },
+        {
+          "number": "097/198",
+          "name": "Galar-Lavados V",
+          "type": "Finsternis",
+          "rarity": "HR"
+        },
+        {
+          "number": "098/198",
+          "name": "Galar-Laschoking",
+          "type": "Finsternis",
+          "rarity": "HR"
+        },
+        {
+          "number": "099/198",
+          "name": "Galar-Laschoking V",
+          "type": "Finsternis",
+          "rarity": "HR"
+        },
+        {
+          "number": "100/198",
+          "name": "Galar-Laschoking VMAX",
+          "type": "Finsternis",
+          "rarity": "HR"
+        },
+        {
+          "number": "101/198",
+          "name": "Baldorfish",
+          "type": "Finsternis",
+          "rarity": "C"
+        },
+        {
+          "number": "102/198",
+          "name": "Vipitis",
+          "type": "Finsternis",
+          "rarity": "R"
+        },
+        {
+          "number": "103/198",
+          "name": "Kryppuk",
+          "type": "Finsternis",
+          "rarity": "R"
+        },
+        {
+          "number": "104/198",
+          "name": "Kleoparda V",
+          "type": "Finsternis",
+          "rarity": "HR"
+        },
+        {
+          "number": "105/198",
+          "name": "Toxiped",
+          "type": "Finsternis",
+          "rarity": "C"
+        },
+        {
+          "number": "106/198",
+          "name": "Rollum",
+          "type": "Finsternis",
+          "rarity": "UC"
+        },
+        {
+          "number": "107/198",
+          "name": "Cerapendra",
+          "type": "Finsternis",
+          "rarity": "R"
+        },
+        {
+          "number": "108/198",
+          "name": "Fokussierter-Angriff-Wulaosu",
+          "type": "Finsternis",
+          "rarity": "HR"
+        },
+        {
+          "number": "109/198",
+          "name": "Stollunior",
+          "type": "Metall",
+          "rarity": "C"
+        },
+        {
+          "number": "110/198",
+          "name": "Stollrak",
+          "type": "Metall",
+          "rarity": "UC"
+        },
+        {
+          "number": "111/198",
+          "name": "Stolloss",
+          "type": "Metall",
+          "rarity": "R"
+        },
+        {
+          "number": "112/198",
+          "name": "Metagross V",
+          "type": "Metall",
+          "rarity": "HR"
+        },
+        {
+          "number": "113/198",
+          "name": "Metagross VMAX",
+          "type": "Metall",
+          "rarity": "HR"
+        },
+        {
+          "number": "114/198",
+          "name": "Kobalium",
+          "type": "Metall",
+          "rarity": "HR"
+        },
+        {
+          "number": "115/198",
+          "name": "Tauros",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "116/198",
+          "name": "Porygon",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "117/198",
+          "name": "Porygon2",
+          "type": "Farblos",
+          "rarity": "UC"
+        },
+        {
+          "number": "118/198",
+          "name": "Porygon-Z",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "119/198",
+          "name": "Heiteira V",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "120/198",
+          "name": "Sengo",
+          "type": "Farblos",
+          "rarity": "R"
+        },
+        {
+          "number": "121/198",
+          "name": "Formeo",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "122/198",
+          "name": "Kecleon",
+          "type": "Farblos",
+          "rarity": "R"
+        },
+        {
+          "number": "123/198",
+          "name": "Shaymin",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "124/198",
+          "name": "Boreos V",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "125/198",
+          "name": "Boreos VMAX",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "126/198",
+          "name": "Coiffwaff",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "127/198",
+          "name": "Raffel",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "128/198",
+          "name": "Schlaraffel",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "129/198",
+          "name": "Agathe",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "130/198",
+          "name": "Saverio",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "131/198",
+          "name": "Kamillo",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "132/198",
+          "name": "Kattlea",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "133/198",
+          "name": "Schmetterhandschuhe",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "134/198",
+          "name": "Ärztin",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "135/198",
+          "name": "Hügel des Dyna-Baums",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "136/198",
+          "name": "Echohorn",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "137/198",
+          "name": "Entdecker-Set",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "138/198",
+          "name": "Feuerfeste Handschuhe",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "139/198",
+          "name": "Flavia",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "140/198",
+          "name": "Nebelkristall",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "141/198",
+          "name": "Galar-Brustpanzer",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "142/198",
+          "name": "Enia",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "143/198",
+          "name": "Handschuhe der Redlichkeit",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "144/198",
+          "name": "Melanies Überzeugung",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "145/198",
+          "name": "Sophora",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "146/198",
+          "name": "Mel",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "147/198",
+          "name": "Uralter Friedhof",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "148/198",
+          "name": "Schneegipfelpfad",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "149/198",
+          "name": "Mila",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "150/198",
+          "name": "Peony",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "151/198",
+          "name": "Fließender-Angriff-Himmelsrolle",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "152/198",
+          "name": "Robuster Helm",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "153/198",
+          "name": "Narcisse",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "154/198",
+          "name": "Fokussierter-Angriff-Stichrolle",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "155/198",
+          "name": "Unkrauthandschuhe",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "156/198",
+          "name": "Einladende Laterne",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "157/198",
+          "name": "Wirkungs-Energie",
+          "type": "Energiekarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "158/198",
+          "name": "Glücks-Energie",
+          "type": "Energiekarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "159/198",
+          "name": "Spiral-Energie",
+          "type": "Energiekarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "160/198",
+          "name": "Celebi V",
+          "type": "Pflanze",
+          "rarity": "UR"
+        },
+        {
+          "number": "161/198",
+          "name": "Lohgock V",
+          "type": "Feuer",
+          "rarity": "UR"
+        },
+        {
+          "number": "162/198",
+          "name": "Volcanion V",
+          "type": "Feuer",
+          "rarity": "UR"
+        },
+        {
+          "number": "163/198",
+          "name": "Schimmelreiter-Coronospa V",
+          "type": "Wasser",
+          "rarity": "UR"
+        },
+        {
+          "number": "164/198",
+          "name": "Schimmelreiter-Coronospa V",
+          "type": "Wasser",
+          "rarity": "UR"
+        },
+        {
+          "number": "165/198",
+          "name": "Zeraora V",
+          "type": "Elektro",
+          "rarity": "UR"
+        },
+        {
+          "number": "166/198",
+          "name": "Zeraora V",
+          "type": "Elektro",
+          "rarity": "UR"
+        },
+        {
+          "number": "167/198",
+          "name": "Galar-Gallopa V",
+          "type": "Psycho",
+          "rarity": "UR"
+        },
+        {
+          "number": "168/198",
+          "name": "Galar-Gallopa V",
+          "type": "Psycho",
+          "rarity": "UR"
+        },
+        {
+          "number": "169/198",
+          "name": "Galar-Arktos V",
+          "type": "Psycho",
+          "rarity": "UR"
+        },
+        {
+          "number": "170/198",
+          "name": "Galar-Arktos V",
+          "type": "Psycho",
+          "rarity": "UR"
+        },
+        {
+          "number": "171/198",
+          "name": "Rappenreiter-Coronospa V",
+          "type": "Psycho",
+          "rarity": "UR"
+        },
+        {
+          "number": "172/198",
+          "name": "Rappenreiter-Coronospa V",
+          "type": "Psycho",
+          "rarity": "UR"
+        },
+        {
+          "number": "173/198",
+          "name": "Galar-Zapdos V",
+          "type": "Kampf",
+          "rarity": "UR"
+        },
+        {
+          "number": "174/198",
+          "name": "Galar-Zapdos V",
+          "type": "Kampf",
+          "rarity": "UR"
+        },
+        {
+          "number": "175/198",
+          "name": "Sanaconda V",
+          "type": "Kampf",
+          "rarity": "UR"
+        },
+        {
+          "number": "176/198",
+          "name": "Galar-Lavados V",
+          "type": "Finsternis",
+          "rarity": "UR"
+        },
+        {
+          "number": "177/198",
+          "name": "Galar-Lavados V",
+          "type": "Finsternis",
+          "rarity": "UR"
+        },
+        {
+          "number": "178/198",
+          "name": "Galar-Laschoking V",
+          "type": "Finsternis",
+          "rarity": "UR"
+        },
+        {
+          "number": "179/198",
+          "name": "Galar-Laschoking V",
+          "type": "Finsternis",
+          "rarity": "UR"
+        },
+        {
+          "number": "180/198",
+          "name": "Kleoparda V",
+          "type": "Finsternis",
+          "rarity": "UR"
+        },
+        {
+          "number": "181/198",
+          "name": "Metagross V",
+          "type": "Metall",
+          "rarity": "UR"
+        },
+        {
+          "number": "182/198",
+          "name": "Heiteira V",
+          "type": "Farblos",
+          "rarity": "UR"
+        },
+        {
+          "number": "183/198",
+          "name": "Heiteira V",
+          "type": "Farblos",
+          "rarity": "UR"
+        },
+        {
+          "number": "184/198",
+          "name": "Boreos V",
+          "type": "Farblos",
+          "rarity": "UR"
+        },
+        {
+          "number": "185/198",
+          "name": "Boreos V",
+          "type": "Farblos",
+          "rarity": "UR"
+        },
+        {
+          "number": "186/198",
+          "name": "Agathe",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "187/198",
+          "name": "Saverio",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "188/198",
+          "name": "Kamillo",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "189/198",
+          "name": "Kattlea",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "190/198",
+          "name": "Ärztin",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "191/198",
+          "name": "Flavia",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "192/198",
+          "name": "Enia",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "193/198",
+          "name": "Melanies Überzeugung",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "194/198",
+          "name": "Sophora",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "195/198",
+          "name": "Mel",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "196/198",
+          "name": "Mila",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "197/198",
+          "name": "Peony",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "198/198",
+          "name": "Narcisse",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "199/198",
+          "name": "Celebi VMAX",
+          "type": "Pflanze",
+          "rarity": "RR"
+        },
+        {
+          "number": "200/198",
+          "name": "Lohgock VMAX",
+          "type": "Feuer",
+          "rarity": "RR"
+        },
+        {
+          "number": "201/198",
+          "name": "Lohgock VMAX",
+          "type": "Feuer",
+          "rarity": "RR"
+        },
+        {
+          "number": "202/198",
+          "name": "Schimmelreiter-Coronospa VMAX",
+          "type": "Wasser",
+          "rarity": "RR"
+        },
+        {
+          "number": "203/198",
+          "name": "Schimmelreiter-Coronospa VMAX",
+          "type": "Wasser",
+          "rarity": "RR"
+        },
+        {
+          "number": "204/198",
+          "name": "Rappenreiter-Coronospa VMAX",
+          "type": "Psycho",
+          "rarity": "RR"
+        },
+        {
+          "number": "205/198",
+          "name": "Rappenreiter-Coronospa VMAX",
+          "type": "Psycho",
+          "rarity": "RR"
+        },
+        {
+          "number": "206/198",
+          "name": "Sanaconda VMAX",
+          "type": "Kampf",
+          "rarity": "RR"
+        },
+        {
+          "number": "207/198",
+          "name": "Galar-Laschoking VMAX",
+          "type": "Finsternis",
+          "rarity": "RR"
+        },
+        {
+          "number": "208/198",
+          "name": "Metagross VMAX",
+          "type": "Metall",
+          "rarity": "RR"
+        },
+        {
+          "number": "209/198",
+          "name": "Boreos VMAX",
+          "type": "Farblos",
+          "rarity": "RR"
+        },
+        {
+          "number": "210/198",
+          "name": "Agathe",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "211/198",
+          "name": "Saverio",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "212/198",
+          "name": "Kamillo",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "213/198",
+          "name": "Kattlea",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "214/198",
+          "name": "Ärztin",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "215/198",
+          "name": "Flavia",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "216/198",
+          "name": "Melanies Überzeugung",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "217/198",
+          "name": "Sophora",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "218/198",
+          "name": "Mel",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "219/198",
+          "name": "Mila",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "220/198",
+          "name": "Peony",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "221/198",
+          "name": "Narcisse",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "222/198",
+          "name": "Lektrobal",
+          "type": "Elektro",
+          "rarity": "SR"
+        },
+        {
+          "number": "223/198",
+          "name": "Bronzong",
+          "type": "Metall",
+          "rarity": "SR"
+        },
+        {
+          "number": "224/198",
+          "name": "Relaxo",
+          "type": "Farblos",
+          "rarity": "SR"
+        },
+        {
+          "number": "225/198",
+          "name": "Echohorn",
+          "type": "Trainerkarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "226/198",
+          "name": "Wellenfächer",
+          "type": "Trainerkarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "227/198",
+          "name": "Nebelkristall",
+          "type": "Trainerkarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "228/198",
+          "name": "Robuster Helm",
+          "type": "Trainerkarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "229/198",
+          "name": "Urne der Vitalität",
+          "type": "Trainerkarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "230/198",
+          "name": "Einladende Laterne",
+          "type": "Trainerkarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "231/198",
+          "name": "Wasser-Energie",
+          "type": "Energiekarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "232/198",
+          "name": "Psycho-Energie",
+          "type": "Energiekarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "233/198",
+          "name": "Kampf-Energie",
+          "type": "Energiekarte",
+          "rarity": "SR"
+        }
+      ]
+    },
+    {
+      "id": "strahlende-sterne",
+      "game": "pokemon",
+      "name": "Strahlende Sterne",
+      "icon": "/sets/pokemon/strahlende-sterne/icon.png",
+      "logo": "/sets/pokemon/strahlende-sterne/logo.png",
+      "cards": [
+        {
+          "number": "001/172",
+          "name": "Owei",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "002/172",
+          "name": "Kokowei",
+          "type": "Pflanze",
+          "rarity": "UC"
+        },
+        {
+          "number": "003/172",
+          "name": "Knilz",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "004/172",
+          "name": "Kapilz",
+          "type": "Pflanze",
+          "rarity": "R"
+        },
+        {
+          "number": "005/172",
+          "name": "Tropius",
+          "type": "Pflanze",
+          "rarity": "UC"
+        },
+        {
+          "number": "006/172",
+          "name": "Chelast",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "007/172",
+          "name": "Chelcarain",
+          "type": "Pflanze",
+          "rarity": "UC"
+        },
+        {
+          "number": "008/172",
+          "name": "Chelterrar",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "009/172",
+          "name": "Burmy",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "010/172",
+          "name": "Burmadame",
+          "type": "Pflanze",
+          "rarity": "R"
+        },
+        {
+          "number": "011/172",
+          "name": "Moterpel",
+          "type": "Pflanze",
+          "rarity": "R"
+        },
+        {
+          "number": "012/172",
+          "name": "Kikugi",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "013/172",
+          "name": "Shaymin V",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "014/172",
+          "name": "Shaymin VSTAR",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "015/172",
+          "name": "Laukaps",
+          "type": "Pflanze",
+          "rarity": "C"
+        },
+        {
+          "number": "016/172",
+          "name": "Zarude V",
+          "type": "Pflanze",
+          "rarity": "HR"
+        },
+        {
+          "number": "017/172",
+          "name": "Glurak V",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "018/172",
+          "name": "Glurak VSTAR",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "019/172",
+          "name": "Magmar",
+          "type": "Feuer",
+          "rarity": "C"
+        },
+        {
+          "number": "020/172",
+          "name": "Magbrant",
+          "type": "Feuer",
+          "rarity": "R"
+        },
+        {
+          "number": "021/172",
+          "name": "Lavados",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "022/172",
+          "name": "Entei V",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "023/172",
+          "name": "Qurtel",
+          "type": "Feuer",
+          "rarity": "UC"
+        },
+        {
+          "number": "024/172",
+          "name": "Panflam",
+          "type": "Feuer",
+          "rarity": "C"
+        },
+        {
+          "number": "025/172",
+          "name": "Panpyro",
+          "type": "Feuer",
+          "rarity": "UC"
+        },
+        {
+          "number": "026/172",
+          "name": "Panferno",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "027/172",
+          "name": "Grillchita V",
+          "type": "Feuer",
+          "rarity": "HR"
+        },
+        {
+          "number": "028/172",
+          "name": "Kingler V",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "029/172",
+          "name": "Kingler VMAX",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "030/172",
+          "name": "Sterndu",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "031/172",
+          "name": "Lapras",
+          "type": "Wasser",
+          "rarity": "R"
+        },
+        {
+          "number": "032/172",
+          "name": "Krebscorps",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "033/172",
+          "name": "Krebutack",
+          "type": "Wasser",
+          "rarity": "UC"
+        },
+        {
+          "number": "034/172",
+          "name": "Schneppke",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "035/172",
+          "name": "Plinfa",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "036/172",
+          "name": "Pliprin",
+          "type": "Wasser",
+          "rarity": "UC"
+        },
+        {
+          "number": "037/172",
+          "name": "Impoleon",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "038/172",
+          "name": "Bamelin",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "039/172",
+          "name": "Bojelin",
+          "type": "Wasser",
+          "rarity": "UC"
+        },
+        {
+          "number": "040/172",
+          "name": "Lumineon V",
+          "type": "Wasser",
+          "rarity": "HR"
+        },
+        {
+          "number": "041/172",
+          "name": "Manaphy",
+          "type": "Wasser",
+          "rarity": "R"
+        },
+        {
+          "number": "042/172",
+          "name": "Petznief",
+          "type": "Wasser",
+          "rarity": "C"
+        },
+        {
+          "number": "043/172",
+          "name": "Siberio",
+          "type": "Wasser",
+          "rarity": "UC"
+        },
+        {
+          "number": "044/172",
+          "name": "Kubuin",
+          "type": "Wasser",
+          "rarity": "R"
+        },
+        {
+          "number": "045/172",
+          "name": "Raichu V",
+          "type": "Elektro",
+          "rarity": "HR"
+        },
+        {
+          "number": "046/172",
+          "name": "Elektek",
+          "type": "Elektro",
+          "rarity": "C"
+        },
+        {
+          "number": "047/172",
+          "name": "Elevoltek",
+          "type": "Elektro",
+          "rarity": "R"
+        },
+        {
+          "number": "048/172",
+          "name": "Raikou V",
+          "type": "Elektro",
+          "rarity": "HR"
+        },
+        {
+          "number": "049/172",
+          "name": "Sheinux",
+          "type": "Elektro",
+          "rarity": "C"
+        },
+        {
+          "number": "050/172",
+          "name": "Luxio",
+          "type": "Elektro",
+          "rarity": "UC"
+        },
+        {
+          "number": "051/172",
+          "name": "Luxtra",
+          "type": "Elektro",
+          "rarity": "R"
+        },
+        {
+          "number": "052/172",
+          "name": "Pachirisu",
+          "type": "Elektro",
+          "rarity": "UC"
+        },
+        {
+          "number": "053/172",
+          "name": "Piepi",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "054/172",
+          "name": "Pixi",
+          "type": "Psycho",
+          "rarity": "R"
+        },
+        {
+          "number": "055/172",
+          "name": "Starmie",
+          "type": "Psycho",
+          "rarity": "UC"
+        },
+        {
+          "number": "056/172",
+          "name": "Mewtu",
+          "type": "Psycho",
+          "rarity": "R"
+        },
+        {
+          "number": "057/172",
+          "name": "Granbull V",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "058/172",
+          "name": "Puppance",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "059/172",
+          "name": "Lepumentas",
+          "type": "Psycho",
+          "rarity": "UC"
+        },
+        {
+          "number": "060/172",
+          "name": "Zwirrlicht",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "061/172",
+          "name": "Zwirrklop",
+          "type": "Psycho",
+          "rarity": "UC"
+        },
+        {
+          "number": "062/172",
+          "name": "Zwirrfinst",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "063/172",
+          "name": "Palimpalim",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "064/172",
+          "name": "Elfun V",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "065/172",
+          "name": "Elfun VSTAR",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "066/172",
+          "name": "Symvolara",
+          "type": "Psycho",
+          "rarity": "UC"
+        },
+        {
+          "number": "067/172",
+          "name": "Dedenne",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "068/172",
+          "name": "Mimigma V",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "069/172",
+          "name": "Mimigma VMAX",
+          "type": "Psycho",
+          "rarity": "HR"
+        },
+        {
+          "number": "070/172",
+          "name": "Hokumil",
+          "type": "Psycho",
+          "rarity": "C"
+        },
+        {
+          "number": "071/172",
+          "name": "Pokusan",
+          "type": "Psycho",
+          "rarity": "R"
+        },
+        {
+          "number": "072/172",
+          "name": "Kapoera",
+          "type": "Kampf",
+          "rarity": "UC"
+        },
+        {
+          "number": "073/172",
+          "name": "Nasgnet",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "074/172",
+          "name": "Knacklion",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "075/172",
+          "name": "Vibrava",
+          "type": "Kampf",
+          "rarity": "UC"
+        },
+        {
+          "number": "076/172",
+          "name": "Libelldra",
+          "type": "Kampf",
+          "rarity": "R"
+        },
+        {
+          "number": "077/172",
+          "name": "Burmadame",
+          "type": "Kampf",
+          "rarity": "R"
+        },
+        {
+          "number": "078/172",
+          "name": "Riolu",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "079/172",
+          "name": "Lucario",
+          "type": "Kampf",
+          "rarity": "HR"
+        },
+        {
+          "number": "080/172",
+          "name": "Jiutesto",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "081/172",
+          "name": "Karadonis",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "082/172",
+          "name": "Golbit",
+          "type": "Kampf",
+          "rarity": "C"
+        },
+        {
+          "number": "083/172",
+          "name": "Golgantes",
+          "type": "Kampf",
+          "rarity": "R"
+        },
+        {
+          "number": "084/172",
+          "name": "Sleima",
+          "type": "Finsternis",
+          "rarity": "C"
+        },
+        {
+          "number": "085/172",
+          "name": "Sleimok",
+          "type": "Finsternis",
+          "rarity": "R"
+        },
+        {
+          "number": "086/172",
+          "name": "Sniebel",
+          "type": "Finsternis",
+          "rarity": "C"
+        },
+        {
+          "number": "087/172",
+          "name": "Snibunna",
+          "type": "Finsternis",
+          "rarity": "UC"
+        },
+        {
+          "number": "088/172",
+          "name": "Kramshef V",
+          "type": "Finsternis",
+          "rarity": "HR"
+        },
+        {
+          "number": "089/172",
+          "name": "Kryppuk",
+          "type": "Finsternis",
+          "rarity": "C"
+        },
+        {
+          "number": "090/172",
+          "name": "Felilou",
+          "type": "Finsternis",
+          "rarity": "C"
+        },
+        {
+          "number": "091/172",
+          "name": "Kleoparda",
+          "type": "Finsternis",
+          "rarity": "R"
+        },
+        {
+          "number": "092/172",
+          "name": "Bähmon",
+          "type": "Finsternis",
+          "rarity": "C"
+        },
+        {
+          "number": "093/172",
+          "name": "Pelzebub",
+          "type": "Finsternis",
+          "rarity": "UC"
+        },
+        {
+          "number": "094/172",
+          "name": "Olangaar",
+          "type": "Finsternis",
+          "rarity": "R"
+        },
+        {
+          "number": "095/172",
+          "name": "Morpeko V",
+          "type": "Finsternis",
+          "rarity": "HR"
+        },
+        {
+          "number": "096/172",
+          "name": "Stolloss V",
+          "type": "Metall",
+          "rarity": "HR"
+        },
+        {
+          "number": "097/172",
+          "name": "Stolloss VMAX",
+          "type": "Metall",
+          "rarity": "HR"
+        },
+        {
+          "number": "098/172",
+          "name": "Burmadame",
+          "type": "Metall",
+          "rarity": "R"
+        },
+        {
+          "number": "099/172",
+          "name": "Voluminas",
+          "type": "Metall",
+          "rarity": "UC"
+        },
+        {
+          "number": "100/172",
+          "name": "Heatran",
+          "type": "Metall",
+          "rarity": "R"
+        },
+        {
+          "number": "101/172",
+          "name": "Cavalanzas",
+          "type": "Metall",
+          "rarity": "R"
+        },
+        {
+          "number": "102/172",
+          "name": "Klikk",
+          "type": "Metall",
+          "rarity": "C"
+        },
+        {
+          "number": "103/172",
+          "name": "Kliklak",
+          "type": "Metall",
+          "rarity": "UC"
+        },
+        {
+          "number": "104/172",
+          "name": "Klikdiklak",
+          "type": "Metall",
+          "rarity": "R"
+        },
+        {
+          "number": "105/172",
+          "name": "Zamazenta V",
+          "type": "Metall",
+          "rarity": "HR"
+        },
+        {
+          "number": "106/172",
+          "name": "Libelldra V",
+          "type": "Drache",
+          "rarity": "HR"
+        },
+        {
+          "number": "107/172",
+          "name": "Kaumalat",
+          "type": "Drache",
+          "rarity": "C"
+        },
+        {
+          "number": "108/172",
+          "name": "Knarksel",
+          "type": "Drache",
+          "rarity": "UC"
+        },
+        {
+          "number": "109/172",
+          "name": "Knakrack",
+          "type": "Drache",
+          "rarity": "HR"
+        },
+        {
+          "number": "110/172",
+          "name": "Milza",
+          "type": "Drache",
+          "rarity": "C"
+        },
+        {
+          "number": "111/172",
+          "name": "Sharfax",
+          "type": "Drache",
+          "rarity": "UC"
+        },
+        {
+          "number": "112/172",
+          "name": "Maxax",
+          "type": "Drache",
+          "rarity": "R"
+        },
+        {
+          "number": "113/172",
+          "name": "Shardrago",
+          "type": "Drache",
+          "rarity": "R"
+        },
+        {
+          "number": "114/172",
+          "name": "Pescragon V",
+          "type": "Drache",
+          "rarity": "HR"
+        },
+        {
+          "number": "115/172",
+          "name": "Porenta",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "116/172",
+          "name": "Formeo",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "117/172",
+          "name": "Staralili",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "118/172",
+          "name": "Staravia",
+          "type": "Farblos",
+          "rarity": "UC"
+        },
+        {
+          "number": "119/172",
+          "name": "Staraptor",
+          "type": "Farblos",
+          "rarity": "R"
+        },
+        {
+          "number": "120/172",
+          "name": "Bidiza",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "121/172",
+          "name": "Bidifas",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "122/172",
+          "name": "Arceus V",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "123/172",
+          "name": "Arceus VSTAR",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "124/172",
+          "name": "Picochilla",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "125/172",
+          "name": "Chillabell",
+          "type": "Farblos",
+          "rarity": "UC"
+        },
+        {
+          "number": "126/172",
+          "name": "Boreos",
+          "type": "Farblos",
+          "rarity": "R"
+        },
+        {
+          "number": "127/172",
+          "name": "Resladero",
+          "type": "Farblos",
+          "rarity": "C"
+        },
+        {
+          "number": "128/172",
+          "name": "Sen-Long V",
+          "type": "Farblos",
+          "rarity": "HR"
+        },
+        {
+          "number": "129/172",
+          "name": "Lolas Vorahnung",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "130/172",
+          "name": "Barry",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "131/172",
+          "name": "Fehlschlagschutz",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "132/172",
+          "name": "Befehl vom Boss",
+          "type": "Trainerkarte",
+          "rarity": "HR"
+        },
+        {
+          "number": "133/172",
+          "name": "Barista",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "134/172",
+          "name": "Cherens Obhut",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "135/172",
+          "name": "Wahlgürtel",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "136/172",
+          "name": "Reinigende Handschuhe",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "137/172",
+          "name": "Stadionruine",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "138/172",
+          "name": "Cynthias Ehrgeiz",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "139/172",
+          "name": "Tafelwasserpack",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "140/172",
+          "name": "Freunde aus Galar",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "141/172",
+          "name": "Gloria",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "142/172",
+          "name": "Jagdhandschuhe",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "143/172",
+          "name": "Hitzkopf",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "144/172",
+          "name": "Magmabecken",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "145/172",
+          "name": "Marys Stolz",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "146/172",
+          "name": "Topfhelm",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "147/172",
+          "name": "Forschung des Professors",
+          "type": "Trainerkarte",
+          "rarity": "HR"
+        },
+        {
+          "number": "148/172",
+          "name": "Roxanas Backup",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "149/172",
+          "name": "Jubel von Team Yell",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "150/172",
+          "name": "Hyperball",
+          "type": "Trainerkarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "151/172",
+          "name": "Doppel-Turbo-Energie",
+          "type": "Energiekarte",
+          "rarity": "UC"
+        },
+        {
+          "number": "152/172",
+          "name": "Shaymin V",
+          "type": "Pflanze",
+          "rarity": "UR"
+        },
+        {
+          "number": "153/172",
+          "name": "Glurak V",
+          "type": "Feuer",
+          "rarity": "UR"
+        },
+        {
+          "number": "154/172",
+          "name": "Glurak V",
+          "type": "Feuer",
+          "rarity": "UR"
+        },
+        {
+          "number": "155/172",
+          "name": "Lumineon V",
+          "type": "Wasser",
+          "rarity": "UR"
+        },
+        {
+          "number": "156/172",
+          "name": "Lumineon V",
+          "type": "Wasser",
+          "rarity": "UR"
+        },
+        {
+          "number": "157/172",
+          "name": "Pikachu V",
+          "type": "Elektro",
+          "rarity": "UR"
+        },
+        {
+          "number": "158/172",
+          "name": "Raichu V",
+          "type": "Elektro",
+          "rarity": "UR"
+        },
+        {
+          "number": "159/172",
+          "name": "Granbull V",
+          "type": "Psycho",
+          "rarity": "UR"
+        },
+        {
+          "number": "160/172",
+          "name": "Elfun V",
+          "type": "Psycho",
+          "rarity": "UR"
+        },
+        {
+          "number": "161/172",
+          "name": "Kramshef V",
+          "type": "Finsternis",
+          "rarity": "UR"
+        },
+        {
+          "number": "162/172",
+          "name": "Kramshef V",
+          "type": "Finsternis",
+          "rarity": "UR"
+        },
+        {
+          "number": "163/172",
+          "name": "Zamazenta V",
+          "type": "Metall",
+          "rarity": "UR"
+        },
+        {
+          "number": "164/172",
+          "name": "Libelldra V",
+          "type": "Drache",
+          "rarity": "UR"
+        },
+        {
+          "number": "165/172",
+          "name": "Arceus V",
+          "type": "Farblos",
+          "rarity": "UR"
+        },
+        {
+          "number": "166/172",
+          "name": "Arceus V",
+          "type": "Farblos",
+          "rarity": "UR"
+        },
+        {
+          "number": "167/172",
+          "name": "Barry",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "168/172",
+          "name": "Cherens Obhut",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "169/172",
+          "name": "Cynthias Ehrgeiz",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "170/172",
+          "name": "Hitzkopf",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "171/172",
+          "name": "Marys Stolz",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "172/172",
+          "name": "Roxanas Backup",
+          "type": "Trainerkarte",
+          "rarity": "UR"
+        },
+        {
+          "number": "173/172",
+          "name": "Shaymin VSTAR",
+          "type": "Pflanze",
+          "rarity": "RR"
+        },
+        {
+          "number": "174/172",
+          "name": "Glurak VSTAR",
+          "type": "Feuer",
+          "rarity": "RR"
+        },
+        {
+          "number": "175/172",
+          "name": "Elfun VSTAR",
+          "type": "Psycho",
+          "rarity": "RR"
+        },
+        {
+          "number": "176/172",
+          "name": "Arceus VSTAR",
+          "type": "Farblos",
+          "rarity": "RR"
+        },
+        {
+          "number": "177/172",
+          "name": "Cherens Obhut",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "178/172",
+          "name": "Cynthias Ehrgeiz",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "179/172",
+          "name": "Hitzkopf",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "180/172",
+          "name": "Roxanas Backup",
+          "type": "Trainerkarte",
+          "rarity": "RR"
+        },
+        {
+          "number": "181/172",
+          "name": "Galar-Arktos V",
+          "type": "Psycho",
+          "rarity": "SR"
+        },
+        {
+          "number": "182/172",
+          "name": "Galar-Zapdos V",
+          "type": "Kampf",
+          "rarity": "SR"
+        },
+        {
+          "number": "183/172",
+          "name": "Galar-Lavados V",
+          "type": "Finsternis",
+          "rarity": "SR"
+        },
+        {
+          "number": "184/172",
+          "name": "Arceus VSTAR",
+          "type": "Farblos",
+          "rarity": "SR"
+        },
+        {
+          "number": "185/172",
+          "name": "Magmabecken",
+          "type": "Trainerkarte",
+          "rarity": "SR"
+        },
+        {
+          "number": "186/172",
+          "name": "Hyperball",
+          "type": "Trainerkarte",
+          "rarity": "SR"
+        }
+      ]
+    }
+  ]
+}
