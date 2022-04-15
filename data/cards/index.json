@@ -15,6 +15,21 @@
         "frontBottomLeft": "frontBottomLeft.jpg",
         "frontBottomRight": "frontBottomRight.jpg"
       }
+    },
+    {
+      "id": "l4t9w",
+      "name": "Aerodactyl GX",
+      "condition": "NM",
+      "game": "pokemon",
+      "set": "bund-der-gleichgesinnten",
+      "cardNumber": "244/236",
+      "images": {
+        "front": "front.jpg",
+        "frontTopLeft": "frontTopLeft.jpg",
+        "frontTopRight": "frontTopRight.jpg",
+        "frontBottomLeft": "frontBottomLeft.jpg",
+        "frontBottomRight": "frontBottomRight.jpg"
+      }
     }
   ]
 }
