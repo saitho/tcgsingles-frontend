@@ -7,6 +7,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+hugo/public
+hugo/content
+hugo/resources/_gen
+hugo/*.lock
+
 # Runtime data
 pids
 *.pid

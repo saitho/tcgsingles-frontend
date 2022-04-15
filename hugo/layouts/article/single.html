@@ -1,5 +1,36 @@
-<template>
-  <div>
+{{ define "title" }}Card Details – {{.Params.name}} – {{.Params.condition}}{{ end }}
+{{ define "main" }}
+<div class="container mx-auto my-6">
+  <!-- Details -->
+  <section class="bg-white shadow overflow-hidden sm:rounded-lg mb-6">
+    <div class="px-4 py-5 sm:px-6 flex justify-between">
+      <h3 class="text-lg leading-6 font-medium text-gray-900">Card Information</h3>
+      <h3 class="leading-6 font-medium text-gray-300">ID: {{.Params.id}}</h3>
+    </div>
+    <div class="border-t border-gray-200">
+      <dl>
+        <div class="column">
+          <dt>Card name</dt>
+          <dd>{{.Params.name}}</dd>
+        </div>
+        <div class="column">
+          <dt>Set</dt>
+          {{ $data := getJSON "../data/sets/" .Params.game "/" .Params.set "/set.json"}}
+          <dd>{{$data.name}}</dd>
+        </div>
+        <div class="column">
+          <dt>Card number</dt>
+          <dd>{{.Params.cardNumber}}</dd>
+        </div>
+        <div class="column">
+          <dt>Condition</dt>
+          <dd>{{.Params.condition}}</dd>
+        </div>
+      </dl>
+    </div>
+  </section>
+
+  <section>
     <CoolLightBox
       :items="cardImages.map(i => i.url)" :index="index" @close="index = null"
     >
@@ -8,81 +39,34 @@
     <div class="lg:grid lg:grid-cols-4 lg:gap-x-6">
       <figure class="aspect-w-3 aspect-h-4 rounded-lg overflow-hidden relative cursor-pointer lg:col-span-2">
         <figcaption class="absolute text-lg px-4 bg-white">Front</figcaption>
-        <img :src="cardImages[0].url"
-             @click="index = 0"
+        <img src="{{ .Params.Images.Front }}"
              class="w-full h-full object-center object-cover">
       </figure>
       <div class="lg:grid lg:grid-cols-1 lg:gap-y-6">
         <figure class="aspect-w-3 aspect-h-2 rounded-lg overflow-hidden relative cursor-pointer">
           <figcaption class="absolute text-lg px-4 bg-white">Top left</figcaption>
-          <img :src="cardImages[1].url"
-               @click="index = 1"
+          <img src="{{ .Params.Images.FrontTopLeft }}"
                class="w-full h-full object-center object-cover">
         </figure>
         <figure class="aspect-w-3 aspect-h-2 rounded-lg overflow-hidden relative cursor-pointer">
           <figcaption class="absolute text-lg px-4 bg-white">Bottom left</figcaption>
-          <img :src="cardImages[2].url"
-               @click="index = 2"
+          <img src="{{ .Params.Images.FrontBottomLeft }}"
                class="w-full h-full object-center object-cover">
         </figure>
       </div>
       <div class="lg:grid lg:grid-cols-1 lg:gap-y-6">
         <figure class="aspect-w-3 aspect-h-2 rounded-lg overflow-hidden relative cursor-pointer">
           <figcaption class="absolute text-lg px-4 bg-white">Top right</figcaption>
-          <img :src="cardImages[3].url"
-               @click="index = 3"
+          <img src="{{ .Params.Images.FrontTopRight }}"
                class="w-full h-full object-center object-cover">
         </figure>
         <figure class="aspect-w-3 aspect-h-2 rounded-lg overflow-hidden relative cursor-pointer">
           <figcaption class="absolute text-lg px-4 bg-white">Bottom right</figcaption>
-          <img :src="cardImages[4].url"
-               @click="index = 4"
+          <img src="{{ .Params.Images.FrontBottomRight }}"
                class="w-full h-full object-center object-cover">
         </figure>
       </div>
     </div>
-  </div>
-</template>
-
-<script>
-// @ts-ignore
-import CoolLightBox from "vue-cool-lightbox"
-import 'vue-cool-lightbox/dist/vue-cool-lightbox.min.css'
-
-export default {
-  name: 'CardImages',
-  components: {CoolLightBox},
-  props: ['card', 'cardBaseUrl'],
-  computed: {
-    cardImages() {
-      return [
-        {
-          // Front
-          url: `${this.cardBaseUrl}${this.card.images.front}`,
-        },
-        {
-          // Top left
-          url: `${this.cardBaseUrl}${this.card.images.frontTopLeft}`,
-        },
-        {
-          // Bottom left
-          url: `${this.cardBaseUrl}${this.card.images.frontBottomLeft}`,
-        },
-        {
-          // Top right
-          url: `${this.cardBaseUrl}${this.card.images.frontTopRight}`,
-        },
-        {
-          // Bottom right
-          url: `${this.cardBaseUrl}${this.card.images.frontBottomRight}`,
-        }
-      ]
-    }
-  },
-  data: () => {
-    return {
-      index: null,
-    }
-  },
-}
-</script>
+  </section>
+</div>
+{{ end }}

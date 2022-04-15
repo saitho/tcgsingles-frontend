@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.LanguageCode }}'>
+{{ partial "head.html" . }}
+<body class="flex flex-col min-h-screen">
+<main class="flex-1 mx-4 md:mx-12 mt-4">
+  {{- block "main" . }}{{- end }}
+</main>
+</body>
+</html>

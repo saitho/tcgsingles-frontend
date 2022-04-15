@@ -1,0 +1,35 @@
+/* TailwindCSS base styles */
+/* see https://tailwindcss.com/docs/functions-and-directives#tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+/* Site Specific */
+/* put site specific css styles here using the @layer directive */
+/* see https://tailwindcss.com/docs/functions-and-directives#layer */
+@layer components {
+  body {
+    background-color: #333;
+  }
+
+  .column {
+    @apply px-4 py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6;
+  }
+
+  .column dt {
+    @apply text-sm font-medium text-gray-500;
+  }
+
+  .column dd {
+    @apply mt-1 text-sm text-gray-900 sm:mt-0 sm:col-span-2;
+  }
+
+  .column:nth-child(odd) {
+    @apply bg-gray-50;
+  }
+
+  .column:nth-child(even) {
+    @apply bg-white;
+  }
+}
