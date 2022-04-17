@@ -26,6 +26,12 @@
           <dt>Condition</dt>
           <dd>{{.Params.condition}}</dd>
         </div>
+        {{ if .Params.description }}
+        <div class="column">
+          <dt>Additional notes</dt>
+          <dd>{{.Params.description}}</dd>
+        </div>
+        {{ end }}
       </dl>
     </div>
   </section>
