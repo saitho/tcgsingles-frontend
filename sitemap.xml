@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://otklt.de/</loc>
+    <loc>http://localhost:1300/</loc>
   </url><url>
-    <loc>https://otklt.de/c0z9b1/</loc>
+    <loc>http://localhost:1300/c0z9b1/</loc>
   </url><url>
-    <loc>https://otklt.de/cl4t9w/</loc>
+    <loc>http://localhost:1300/cl4t9w/</loc>
   </url><url>
-    <loc>https://otklt.de/categories/</loc>
+    <loc>http://localhost:1300/categories/</loc>
   </url><url>
-    <loc>https://otklt.de/tags/</loc>
+    <loc>http://localhost:1300/tags/</loc>
   </url>
 </urlset>
