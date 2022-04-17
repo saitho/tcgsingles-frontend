@@ -15,29 +15,19 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-          # extended: true
-
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-
-      - name: Install NPM packages
-        run: npm i
-
-      - name: Install global dependencies
-        run: npm i -g postcss-cli autoprefixer
-
-      - name: Build
-        run: node hugo.js -f
+      - name: Build local docker image
+        run: docker build . -t local
+      - name: Start Docker container
+        run: docker run --rm -d --name local local
+      - name: Copy built files
+        run: docker cp local:/usr/share/caddy ./build
+      - name: Stop Docker container
+        run: docker stop local
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./hugo/public
+          publish_dir: ./build
           cname: otklt.de

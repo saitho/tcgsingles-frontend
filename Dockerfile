@@ -11,4 +11,5 @@ RUN ./hugo.js -f
 
 # build final image
 FROM caddy:2.4.0-alpine
+RUN rm -rf /usr/share/caddy/*
 COPY --from=builder /src/hugo/public /usr/share/caddy/
