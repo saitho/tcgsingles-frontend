@@ -5,7 +5,7 @@ let config = {
   root: 'hugo', //Root hugo folder, can be empty
   dataFolder: 'data', //Data folder path (will fetch ALL files from here)
   cardDataFolder: `cards`, //Data folder path (will fetch ALL files from here)
-  type: 'article', //Type name [basically layout] (save it under "layouts/NAME/single.html" or themes/THEME/layouts/NAME/single.html). Can be overridden on individual pages by defining "type" under "fields"
+  type: 'card', //Type name [basically layout] (save it under "layouts/NAME/single.html" or themes/THEME/layouts/NAME/single.html). Can be overridden on individual pages by defining "type" under "fields"
   contentPath: 'content', //Path to content directory (in case it's not "content")
   hugoPath: 'hugo' //Path to hugo binary (if global, e.g. /snap/bin/hugo)
 }
@@ -44,6 +44,7 @@ const build = async (add, force) => {
     let obj = converToObject(dataFiles[i] + '/index.json');
     const data = {
       type: config.type,
+      id: dataFiles[i],
       ...obj
     }
     const pagePath = path.join(config.root, config.contentPath, 'c' + dataFiles[i]);
