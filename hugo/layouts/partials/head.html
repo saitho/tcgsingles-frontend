@@ -2,9 +2,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <base href="{{ .Site.BaseURL }}" />
-    <title>{{ block "title" . }}
-    {{- .Title }} - {{ .Site.Title -}}
-    {{ end }}</title>
+    <title>{{ block "title" . }}{{- .Title }} - {{ .Site.Title -}}{{ end }}</title>
     {{- if .Description }}
     <meta name="description" content="{{ .Description }}" />
     {{ end -}}
